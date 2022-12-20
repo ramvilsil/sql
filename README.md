@@ -1,3 +1,3 @@
 # SQL Exercises
 
-Practice with SQL Queries 
+Writing SQL queries with MS SQL Server Management Studio.

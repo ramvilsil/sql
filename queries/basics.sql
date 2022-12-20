@@ -1,3 +1,5 @@
+/* Practicing the basics */
+
 /* Using the WHERE clause */
 SELECT * FROM Customers WHERE Country='Canada';
 
